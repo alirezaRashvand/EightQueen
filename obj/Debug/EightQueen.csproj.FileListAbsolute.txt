@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\EightQueen\bin\Debug\EightQueen.exe.config
+C:\Users\Admin\Desktop\EightQueen\bin\Debug\EightQueen.exe
+C:\Users\Admin\Desktop\EightQueen\bin\Debug\EightQueen.pdb
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.Board.resources
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.Form1.resources
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.Properties.Resources.resources
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.exe
+C:\Users\Admin\Desktop\EightQueen\obj\Debug\EightQueen.pdb
